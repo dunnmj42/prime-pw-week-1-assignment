@@ -56,6 +56,7 @@ img {
 /* Change the font-family of your list */
 ul {
   list-style-position: inside;
+  list-style-type: circle;
   text-align: left;
   font-family: monospace;
   font-size: 2.5em;
