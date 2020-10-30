@@ -32,7 +32,7 @@ footer {
 /* Align the h1 containing your name in the center of the header*/
 h1 {
   font-family: sans-serif;
-  font-size: 5em;
+  font-size: 9vmin;
   padding: 10px;
   margin: 0;
   text-align: center;
@@ -43,7 +43,7 @@ h1 {
 p {
   color: #fff;
   font-style: italic;
-  font-size: 1.5em;
+  font-size: 2.5vmin;
 }
 
 /* Put a border around your image */
@@ -59,8 +59,12 @@ ul {
   list-style-type: circle;
   text-align: left;
   font-family: monospace;
-  font-size: 2.5em;
+  font-size: 3vmin;
   color: #fff;
+}
+
+li {
+  margin: 2vmax;
 }
 
 .flex-container {
