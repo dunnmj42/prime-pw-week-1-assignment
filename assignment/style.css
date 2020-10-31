@@ -53,7 +53,7 @@ img {
   max-height: 40vmin;
   margin: 10px;
   padding: 5px;
-  border: 5px solid #555;
+  border: 1vmin solid #555;
 }
 
 /* Change the font-family of your list */
